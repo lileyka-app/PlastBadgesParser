@@ -1,4 +1,4 @@
-# PlastBadgesParser ![GitHub Release](https://img.shields.io/github/v/release/iamavasya/PlastBadgesParser)
+# PlastBadgesParser ![GitHub Release](https://img.shields.io/github/v/release/lileyka-app/PlastBadgesParser)
 
 
 CLI-утиліта для парсингу бібліотеки вмілостей Пласту, нормалізації даних і формування `badges.json` для подальшого використання в застосунках/контент-процесах.
